@@ -1,0 +1,32 @@
+.title-center {
+  flex: 1 1 auto;
+  text-align: center;
+}
+
+.target-center {
+  flex: 1 1 auto;
+  text-align: center;
+}
+
+.grid {
+  flex-wrap:wrap;
+  width:100%;
+}
+
+.container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+}
+.leftThing {
+  width: 40%;
+  background-color: aqua;
+}
+.centerThing {
+  width: 2%;
+  background-color: white;
+}
+.rightThing {
+  width: 40%;
+  background-color: white;
+}
